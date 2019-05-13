@@ -5,5 +5,9 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="cotizabtn">Cotizar</string>
     <string name="portafoliobtn">Portafolio</string>
-    <string name="logoInicio">Logo</string>
+    <string name="planTxt">Tu Plan:</string>
+    <string name="totalTxt">$0.00</string>
+    <string name="degradadoPrincipal">Fondo</string>
+    <string name="AnimationTal">0</string>
+    <string name="AnimationTxt">Animación</string>
 </resources>
